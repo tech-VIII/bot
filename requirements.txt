@@ -1,0 +1,8 @@
+os
+logging
+asyncio
+collections
+datetime
+python-telegram-bot
+requests
+google-genai
