@@ -20,7 +20,7 @@ from telegram.ext import (
 # Настройки
 # =========================
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN", "8079921309:AAFIzFSOOz33XBmGtJpv_54JD1moQt94EtI")
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyDkQ6dj3GS18m_VdWASBPVVto6UEDYz33Y")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyBGqxtQrdUjNZzcf5Ihv5V-G1MtZ0ysjUM")
 NEWS_API_KEY = os.getenv("NEWS_API_KEY", "2457ec1432514b35812eac8df0792e66")
 ADMIN_ID_RAW = os.getenv("ADMIN_ID", "8264586593")
 
